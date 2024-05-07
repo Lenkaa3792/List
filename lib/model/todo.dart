@@ -9,7 +9,7 @@ class ToDo {
   });
   static List<ToDo> todoList() {
     return [
-      ToDo(id: '1', todoText: 'Buy groceries', isDone: true),
+      ToDo(id: '1', todoText: 'sleep', isDone: false),
       ToDo(id: '2', todoText: 'Go shopping', isDone: true),
       ToDo(id: '3', todoText: 'Call mom', isDone: true),
       ToDo(
